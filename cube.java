@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class cube {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("lenghtof cube ="  );
+        System.out.print("lenght of cube ="  );
         double L = sc.nextDouble();
         double area1side ,areatotalcube,volume;
         area1side = L*L ;
